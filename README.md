@@ -1,4 +1,4 @@
-# Data Professionals Salaries: Trends and Predictions
+# Data Professionals' Salaries: Trends and Predictions
 
 Team Members: Audrey Barrett, Reetu Jakhar, Lindsey Jessurun, Christian Smith
 
