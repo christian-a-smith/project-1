@@ -2,7 +2,7 @@
 
 Team Members: Audrey Barrett, Reetu Jakhar, Lindsey Jessurun, Christian Smith
 
-Description: The aim of our project is to examine trends within data professionals’ roles over the past three years. We’ll examine relationships between salary and company size, experience level, location, and title. 
+Description: The aim of our project is to examine trends within data professionals’ roles over the past three years. We’ll examine relationships between salary and company size, experience level, and title. 
 
 Research Questions:
 * What effect does company size have on data professionals’ salaries?
@@ -11,13 +11,20 @@ Research Questions:
 * What is the average salary for each job title?
 
 Datasets: 
-* AI Jobs Dataset - https://ai-jobs.net/salaries/data-analyst-salary-in-2023/
-* Indeed API 
+* https://ai-jobs.net/salaries/data-analyst-salary-in-2023/
+
+Additional References:
+* https://www.zippia.com/advice/average-annual-raise/
 
 Breakdown of Tasks:
 * Data Cleanup - Audrey
-* Data Exploration - Lindsey
-* Exploration Visualization - Reetu
-* Data Analysis/Visualization - Audrey/Lindsey/Reetu/Christian
+* Data Analysis/Visualization
+  * Question 1 - Lindsey
+  * Question 2 - Audrey
+  * Question 3 - Christian
+  * Question 4 - Reetu
 * Written Analysis - Christian
 * Slide Deck - Audrey
+
+# Analysis and Conclusion
+
